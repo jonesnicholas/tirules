@@ -62,7 +62,7 @@
     <li>The Mentak player&rsquo;s opponent chooses which promissory note they give to the Mentak player.</li>
     <li>If the Mentak player resolves their <i>Salvage Operations</i> faction technology after winning a space combat to place their fourth cruiser, their commander does not trigger for that combat.</li>
     <li>If the Mentak player unlocks their commander during combat, for example by placing their fourth cruiser due to the effect of <i>Sleeper Cell</i>, they can use the commander at the end of that combat if they win.</li>
-    <ol><li>The four cruisers do not need to survive until the end of combat, the commander at the moment that the fourth cruiser is placed.</li></ol>
+    <ol><li>The four cruisers do not need to survive until the end of combat, the commander is unlocked at the moment that the fourth cruiser is placed.</li></ol>
     </ol>
 
 <h1>Ipswitch, Loose Cannon &mdash; Sleeper Cell <sub>(Hero)</sub></h1>
